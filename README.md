@@ -94,6 +94,7 @@ Music Application
 
 An Android application that receives GNSS data through MQTT and
 presents the information through a mobile UI.
+
 <img width="300" height="500" alt="shared image1" src="https://github.com/user-attachments/assets/6dc7e981-113c-44f9-8522-5b671bc4255f" />
 
 <img width="300" height="500" alt="shared ima2ge" src="https://github.com/user-attachments/assets/8a12c2a9-2894-4379-ae9d-73a3c3337c6a" />
@@ -111,7 +112,10 @@ presents the information through a mobile UI.
 - Adaptive AUTOSAR
 - German
 
-
+  
+## 🔗 Connect With Me
+- 💼 LinkedIn: [Nireeksha Acharya](https://www.linkedin.com/in/nireeksha-acharya-977484253/)
+- 📧 Email: acharyaniriksha2@gmail.com
 
 
 
